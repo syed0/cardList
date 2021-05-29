@@ -1,0 +1,45 @@
+{
+
+  "card": [
+
+    {
+
+  "imgPath":"https://cdn.hsbc.co.in/content/dam/hsbc/in/images/credit-card/cashback-credit-card.jpg",
+
+   "name":"DEBIT & ATM CARD",
+
+   "cardname":"Platinum card",
+
+   "lastfour":2358,
+
+"id":"esb213"
+
+
+
+
+
+},
+
+    {
+
+  "imgPath":"https://techvirendra.com/wp-content/uploads/2019/07/20180927_202917-1024x635.jpg",
+
+  "name":"CREDIT CARD",
+
+  "cardname":"Silver card",
+
+  "lastfour":2360,
+
+"id":"ra513"
+
+
+
+
+
+  }
+
+
+
+  ]
+
+}
